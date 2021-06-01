@@ -1,0 +1,3 @@
+https://drive.google.com/drive/folders/1-bSGgA-KxsGKZDyB6DVXyETTIHQOjBJd?usp=sharing  /* this is model with Mobilnet and accuracy 76% */
+
+
