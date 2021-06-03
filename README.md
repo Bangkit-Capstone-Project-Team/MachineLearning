@@ -38,15 +38,16 @@
 
 
 ### Training prosess
-!(train.JPG)
+![train](train.JPG)
 
 ### Evaluate Model
-!(acc.JPG)
+![acc](acc.JPG)
 
 
 ### Results
 * **PREDICT LABEL**
-![Predict](RESULT.JPG)
+![result](RESULT.JPG)
 
 
-
+### the last is save your model
+config = QuantizationConfig.for_float16()
