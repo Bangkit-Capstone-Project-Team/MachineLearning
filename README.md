@@ -38,15 +38,15 @@
 
 
 ### Training prosess
-()
+!(train.JPG)
 
 ### Evaluate Model
-()
+!(acc.JPG)
 
 
 ### Results
 * **PREDICT LABEL**
-![Predict]()
+![Predict](RESULT.JPG)
 
 
 
