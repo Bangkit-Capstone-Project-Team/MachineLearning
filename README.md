@@ -50,4 +50,4 @@
 
 
 ### the last is save your model
-config = QuantizationConfig.for_float16()
+![save model](save.JPG)
